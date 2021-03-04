@@ -24,3 +24,9 @@ Java repository for daily work.
   <li><b>Activity-4:</b>Creating a Company class and define some private members. Also using String.split() we had to check if team lead in their in employee list. If not we render an invalid input warning.</li>
   <li><b>Activity-5:</b>Creating an Employee class and define some private members. Using getter and setter we had to update the value of private members. based on the input we had to change the respective member's value.</li>
 </ol>
+
+<h2>3rd March, 2021</h2>
+<ol>
+  <li><b>Activity-1:</b> Creating a Vehicle parent class and subsequent classes of Two wheeler and four wheeler and processing input information between them using inheritance.</li>
+  <li><b>Activity-2:</b> Creating a HotelRoom parent class and subsequent child classes of Deluxe Room, Deluxe Ac room and Suite Ac Room and processing input information to give output using inheritance.</li>
+</ol>
